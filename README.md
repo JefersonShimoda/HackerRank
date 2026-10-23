@@ -8,26 +8,10 @@ Resoluções de desafios práticos do [HackerRank](https://www.hackerrank.com/) 
 
 ```text
 src/
-└── algorithms/
-    ├── AppleAndOrange.java
-    ├── BetweenTwoSets.java
-    ├── BillDivision.java
-    ├── BirthdayCakeCandles.java
-    ├── BreakingTheRecords.java
-    ├── DayOfTheProgrammer.java
-    ├── DiagonalDiference.java
-    ├── DivisibleSumPairs.java
-    ├── DrawingBook.java
-    ├── GradingStudents.java
-    ├── MigratoryBirds.java
-    ├── MiniMaxSum.java
-    ├── NumberLineJumps.java
-    ├── PlusMinus.java
-    ├── SalesByMatch.java
-    ├── Staircase.java
-    ├── SubarrayDivision.java
-    └── TimeConversion.java
+└── algorithms/    # Soluções dos desafios práticos
 ```
+
+Cada arquivo dentro do pacote `algorithms` contém a resolução completa de um problema específico da plataforma.
 
 ---
 
